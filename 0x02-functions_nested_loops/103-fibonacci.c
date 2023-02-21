@@ -22,7 +22,7 @@ int main(void)
 		f1 = f2;
 		f2 = f_sum;
 	}
-	
+
 	printf("%.0f\n", sum);
 
 	return (0);
