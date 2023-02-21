@@ -1,4 +1,4 @@
-# ALX Low-Level Programming
+# ALX Low-Level Programming in C
 
 ## Tasks
 - [ ] 1. [0x00. C - Hello, World](https://github.com/terrymk99/alx-low_level_programming/tree/master/0x00-hello_world)
