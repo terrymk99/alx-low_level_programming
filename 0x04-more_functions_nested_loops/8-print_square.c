@@ -5,22 +5,21 @@
  * @n: The size of the square.
  * Return: void
  */
-void print_square(int size)
+void print_square(int n)
 {
-	int h, w;
+	int i = 0, ii;
 
-	if (size > 0)
+	while (i < n && n > 0)
 	{
-		for (h = 0; h < size; h++)
+		ii = 0;
+		while (ii < n)
 		{
-			for (w = 0; w < size; w++)
-				_putchar('#');
-
-			if (h == size - 1)
-				continue;
-			_putchar('\n');
+			_putchar('#');
+			ii++;
 		}
+		_putchar('\n');
+		i++;
 	}
-
-	_putchar('\n');
+	if (i == 0)
+		_putchar('\n');
 }
