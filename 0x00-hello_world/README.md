@@ -3,14 +3,18 @@
 ## Tasks
 
 - [x] 0. [Preprocessor]()
-- [x] 1. [Compiler]()
-- [x] 2. [Assembler]()
-- [x] 3. [Name]()
-- [x] 4. [Hello, puts]()
-- [x] 5. [Hello, printf]()
-- [x] 6. [Size is not grandeur, and territory does not make a nation]()
-- [x] 7. [Intel]()
-- [x] 8. [UNIX is basically a simple operating system, but you have to be a genius to understand the simplicity]()
+Write a script that runs a C file through the preprocessor and save the result into another file.
+    -The C file name will be saved in the variable `$CFILE`
+    -The output should be saved in the file `c`
+- [x] 0. [Preprocessor](https://github.com/terrymk99/alx-low_level_programming/blob/master/0x00-hello_world/0-preprocessor)
+- [x] 1. [Compiler](https://github.com/terrymk99/alx-low_level_programming/blob/master/0x00-hello_world/1-compiler)
+- [x] 2. [Assembler](https://github.com/terrymk99/alx-low_level_programming/blob/master/0x00-hello_world/2-assembler)
+- [x] 3. [Name](https://github.com/terrymk99/alx-low_level_programming/blob/master/0x00-hello_world/3-name)
+- [x] 4. [Hello, puts](https://github.com/terrymk99/alx-low_level_programming/blob/master/0x00-hello_world/4-puts.c)
+- [x] 5. [Hello, printf](https://github.com/terrymk99/alx-low_level_programming/blob/master/0x00-hello_world/5-printf.c)
+- [x] 6. [Size is not grandeur, and territory does not make a nation](https://github.com/terrymk99/alx-low_level_programming/blob/master/0x00-hello_world/6-size.c)
+- [x] 7. [Intel](https://github.com/terrymk99/alx-low_level_programming/blob/master/0x00-hello_world/100-intel)
+- [x] 8. [UNIX is basically a simple operating system, but you have to be a genius to understand the simplicity](https://github.com/terrymk99/alx-low_level_programming/blob/master/0x00-hello_world/101-quote.c)
 
 ## Requirements
 ### C
