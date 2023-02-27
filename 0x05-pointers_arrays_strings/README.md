@@ -3,7 +3,7 @@ This directory documents my responses to the "0x05. C - Pointers, arrays and str
 
 ## Concepts
 
-  For this project I look at these concepts:
+  For this project, I look at these concepts:
   - Pointers and arrays
   - Data Structures
 
