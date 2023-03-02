@@ -1,16 +1,23 @@
-/**
- * reverse_array - Reverses the content of an array of integers.
- * @a: The array of integers to be reversed.
- * @n: The number of elements in the array.
- */
-void reverse_array(int *a, int n)
-{
-	int tmp, index;
+#include "main.h"
 
-	for (index = n - 1; index >= n / 2; index--)
+/**
+ * string_toupper - Changes all lowercase letters
+ *                  of a string to uppercase.
+ * @str: The string to be changed.
+ *
+ * Return: A pointer to the changed string.
+ */
+char *string_toupper(char *str)
+{
+	int index = 0;
+
+	while (str[index])
 	{
-		tmp = a[n - 1 - index];
-		a[n - 1 - index] = a[index];
-		a[index] = tmp;
+		if (str[index] >= 'a' && str[index] <= 'z')
+			str[index] -= 32;
+
+		index++;
 	}
+
+	return (str);
 }
