@@ -9,3 +9,4 @@ This is a repository of C-programming project assignments from the ALX SE progra
 - [x] 0x04. [C - More functions, more nested loops](https://github.com/terrymk99/alx-low_level_programming/tree/master/0x04-more_functions_nested_loops)
 - [x] 0x05. [C - Pointers, arrays and strings](https://github.com/terrymk99/alx-low_level_programming/tree/master/0x05-pointers_arrays_strings)
 - [x] 0x06. [C - More pointers, arrays and strings](https://github.com/terrymk99/alx-low_level_programming/tree/master/0x06-pointers_arrays_strings)
+- [x] 0x07. [C - Even more pointers, arrays and strings]()
