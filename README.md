@@ -12,3 +12,4 @@ This is a repository of C-programming project assignments from the ALX SE progra
 - [x] 0x07. [C - Even more pointers, arrays and strings]()
 - [x] 0x08. [C - Recursion](https://github.com/terrymk99/alx-low_level_programming/tree/master/0x08-recursion)
 - [x] 0x09. [C - Static libraries](https://github.com/terrymk99/alx-low_level_programming/tree/master/0x09-static_libraries)
+- [x] 0x0A. [C - argc, argv](https://github.com/terrymk99/alx-low_level_programming/tree/master/0x0A-argc_argv)
